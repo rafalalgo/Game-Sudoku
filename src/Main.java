@@ -10,7 +10,8 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("fxml/gui.fxml"));
         primaryStage.setTitle("Game Sudoku");
-        primaryStage.setScene(new Scene(root, 300, 275));
+        primaryStage.setScene(new Scene(root, 900, 620));
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
 
