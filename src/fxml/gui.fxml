@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.effect.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.scene.control.*?>
 <?import java.lang.*?>
@@ -55,126 +58,201 @@
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.34" saturation="0.52" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="1" GridPane.columnIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.34" saturation="0.52" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.72" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="5" GridPane.columnIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.72" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.72" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="2" GridPane.rowIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.34" saturation="0.52" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.34" saturation="0.52" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.72" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="3" GridPane.columnIndex="4" GridPane.rowIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.72" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.34" saturation="0.52" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.1" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="4" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.59" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.59" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="3" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.1" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="5" GridPane.columnIndex="4" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.1" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.59" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="5" GridPane.columnIndex="1" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.59" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.59" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" text="3" GridPane.columnIndex="3" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="48.0" />
+                                    <Font name="Ubuntu Bold" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.1" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxWidth="88.0" minHeight="88.0" minWidth="88.0" prefHeight="88.0" prefWidth="88.0" GridPane.columnIndex="4" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="48.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.1" saturation="0.36" />
+                                 </effect>
                               </TextArea>
                            </children>
                         </GridPane>
@@ -190,183 +268,291 @@
                            <children>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="6">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="1" GridPane.columnIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="3" GridPane.columnIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="5" GridPane.columnIndex="1" GridPane.rowIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.19" saturation="0.55" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="1" GridPane.columnIndex="4" GridPane.rowIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="1" GridPane.rowIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="4" GridPane.columnIndex="2" GridPane.rowIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="3" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.29" saturation="0.48" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="6" GridPane.columnIndex="3" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="4" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="3" GridPane.columnIndex="1" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="3" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="6" GridPane.columnIndex="4" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="2" GridPane.columnIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="5" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.5" saturation="0.4" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="5" GridPane.columnIndex="5" GridPane.rowIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="1" GridPane.columnIndex="5" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.67" saturation="0.38" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="5" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="4" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="1" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="6" GridPane.columnIndex="2" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.26" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="5" GridPane.columnIndex="3" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                               <TextArea maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" GridPane.columnIndex="4" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                               <TextArea editable="false" maxHeight="74.0" maxWidth="74.0" minHeight="74.0" minWidth="74.0" prefHeight="74.0" prefWidth="74.0" text="3" GridPane.columnIndex="5" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="41.0" />
+                                    <Font name="Ubuntu Bold" size="41.0" />
                                  </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.31" />
+                                 </effect>
                               </TextArea>
                            </children>
                            <columnConstraints>
@@ -417,199 +603,493 @@
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="1" GridPane.columnIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="1" GridPane.columnIndex="1" GridPane.rowIndex="1">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="4" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6" GridPane.rowIndex="1">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="7" GridPane.rowIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.33" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="2" GridPane.columnIndex="2" GridPane.rowIndex="2">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.21" saturation="0.43" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6" GridPane.rowIndex="2">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.53" saturation="0.28" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="3" GridPane.columnIndex="3" GridPane.rowIndex="3">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="4" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6" GridPane.rowIndex="3">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust saturation="0.31" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="4" GridPane.columnIndex="4" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5" GridPane.rowIndex="4">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="2" GridPane.columnIndex="6" GridPane.rowIndex="4">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="2" GridPane.columnIndex="1" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="1" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="2" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="0.69" saturation="0.38" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="2" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="3" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="4" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="5" GridPane.columnIndex="5" GridPane.rowIndex="5">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea editable="false" maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" text="6" GridPane.columnIndex="4" GridPane.rowIndex="6">
                                  <font>
-                                    <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                    <Font name="Ubuntu Bold" size="34.0" />
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="1.0" saturation="0.36" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="5" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6" GridPane.rowIndex="5">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                               <TextArea maxHeight="62.0" maxWidth="62.0" minHeight="62.0" minWidth="-Infinity" prefHeight="62.0" prefWidth="0.0" GridPane.columnIndex="6" GridPane.rowIndex="6">
                                  <font>
                                     <Font name="Ubuntu" size="34.0" />
-                                 </font></TextArea>
+                                 </font>
+                                 <effect>
+                                    <ColorAdjust hue="-0.57" saturation="0.24" />
+                                 </effect>
+                                 <cursor>
+                                    <Cursor fx:constant="DISAPPEAR" />
+                                 </cursor></TextArea>
                            </children>
                         </GridPane>
                      </children>
@@ -620,6 +1100,23 @@
       </TabPane>
    </center>
    <right>
-      <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #C0C0C0; -fx-border-color: grey;" BorderPane.alignment="CENTER" />
+      <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #C0C0C0; -fx-border-color: grey;" BorderPane.alignment="CENTER">
+         <children>
+            <Button alignment="CENTER" layoutX="22.0" layoutY="473.0" mnemonicParsing="false" text="Wyczyść Planszę">
+               <font>
+                  <Font name="Ubuntu" size="18.0" />
+               </font>
+            </Button>
+            <Button alignment="CENTER" layoutX="11.0" layoutY="535.0" mnemonicParsing="false" text="Pokaż Rozwiązanie">
+               <font>
+                  <Font name="Ubuntu" size="18.0" />
+               </font>
+            </Button>
+            <Label layoutX="47.0" layoutY="29.0" text="Sudoku">
+               <font>
+                  <Font name="Ubuntu" size="29.0" />
+               </font>
+            </Label>
+         </children></Pane>
    </right>
 </BorderPane>
